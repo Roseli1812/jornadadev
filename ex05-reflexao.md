@@ -1,0 +1,2 @@
+
+Podemos dizer que o computador n∆o erra porque ele executa exatamente as instruá‰es que recebe, sem interpretar ou tomar decis‰es por conta pr¢pria. Se o resultado estiver errado, normalmente a instrucao foi passada errada feita pelo desenvolvedor. Isso implica que quem programa deve escrever instruá‰es claras, corretas e testar o sistema cuidadosamente para evitar erros de l¢gica e garantir que o programa funcione como esperado.

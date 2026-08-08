@@ -260,60 +260,60 @@ TCC/
 
 ## 15. Evidências de Homologação
 
-As evidências visuais existentes no documento original foram extraídas para a pasta `docs/`. Para que apareçam no GitHub, suba **o `README.md` e a pasta `docs` juntos**.
+As evidências visuais existentes no documento original foram extraídas para a pasta `EVIDENCIAS/`. Para que apareçam no GitHub, suba **o `README.md` e a pasta `EVIDENCIAS` juntos**.
 
 
 ### Evidência 01
 
-![Evidência 01](docs/evidencia-01.png)
+![Evidência 01](EVIDENCIAS/evidencia-01.png)
 
 ### Evidência 02
 
-![Evidência 02](docs/evidencia-02.png)
+![Evidência 02](EVIDENCIAS/evidencia-02.png)
 
 ### Evidência 03
 
-![Evidência 03](docs/evidencia-03.png)
+![Evidência 03](EVIDENCIAS/evidencia-03.png)
 
 ### Evidência 04
 
-![Evidência 04](docs/evidencia-04.png)
+![Evidência 04](EVIDENCIAS/evidencia-04.png)
 
 ### Evidência 05
 
-![Evidência 05](docs/evidencia-05.png)
+![Evidência 05](EVIDENCIAS/evidencia-05.png)
 
 ### Evidência 06
 
-![Evidência 06](docs/evidencia-06.png)
+![Evidência 06](EVIDENCIAS/evidencia-06.png)
 
 ### Evidência 07
 
-![Evidência 07](docs/evidencia-07.png)
+![Evidência 07](EVIDENCIAS/evidencia-07.png)
 
 ### Evidência 08
 
-![Evidência 08](docs/evidencia-08.png)
+![Evidência 08](EVIDENCIAS/evidencia-08.png)
 
 ### Evidência 09
 
-![Evidência 09](docs/evidencia-09.png)
+![Evidência 09](EVIDENCIAS/evidencia-09.png)
 
 ### Evidência 10
 
-![Evidência 10](docs/evidencia-10.png)
+![Evidência 10](EVIDENCIAS/evidencia-10.png)
 
 ### Evidência 11
 
-![Evidência 11](docs/evidencia-11.png)
+![Evidência 11](EVIDENCIAS/evidencia-11.png)
 
 ### Evidência 12
 
-![Evidência 12](docs/evidencia-12.png)
+![Evidência 12](EVIDENCIAS/evidencia-12.png)
 
 ### Evidência 13
 
-![Evidência 13](docs/evidencia-13.png)
+![Evidência 13](EVIDENCIAS/evidencia-13.png)
 
 ## 16. Pontos de Atenção
 
